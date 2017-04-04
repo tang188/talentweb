@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+#content{
+	margin-bottom: 50px;
+}
+
+.mess{
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 10px 50px;
+	margin-top: 20px;
+}
+.news{
+	margin-bottom: 20px;
+}

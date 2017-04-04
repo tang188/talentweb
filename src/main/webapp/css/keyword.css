@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+#content{
+	margin-bottom: 50px;
+}
+
+.keywordArea{
+	min-width: 30%;
+	height: 50px;
+	line-height: 50px;
+	float: left;
+	margin-right: 100px;
+	margin-top: 10px;
+}
+.keywordArea .keyCon{
+	padding: 10px 20px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	cursor: pointer;
+}
+.keywordArea .keyIcon{
+	color: #f00;
+	font-size: 30px;
+	cursor: pointer;
+}
+.keywordArea .keyIcon2{
+	color: #0f0;
+	font-size: 30px;
+	cursor: pointer;
+}

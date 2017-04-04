@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+#content{
+	margin-bottom: 50px;
+}
+
+#aboutView h4{
+	margin-left: 30%;
+}
+#aboutView hr{
+	color: #ccc;
+}
